@@ -1,6 +1,6 @@
 ## Info
-https://letsencrypt.org/
-https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
+- https://letsencrypt.org/
+- https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04
 
 ## Set
 1. ```sudo ufw allow 80```
