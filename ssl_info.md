@@ -7,4 +7,4 @@
 2. ```sudo ufw allow 443```
 3. ```sudo ufw status``` check status
 4. ```sudo apt install certbot python3-certbot-nginx```
-5. ```sudo certbot --nginx -d '''domain_name``` -d ```domain_name```
+5. ```sudo certbot --nginx -d ```domain_name``` -d ```domain_name```
